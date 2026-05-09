@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm a student at GSSS SSFGC<br>currently learning python and git<br>
+Hi, I’m Anusha 👋
+
+I am a Python developer currently learning programming, problem solving, and GUI development using Tkinter.
+
 
 
 ## 🌐 Socials:
